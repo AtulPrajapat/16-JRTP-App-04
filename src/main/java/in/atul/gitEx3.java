@@ -9,6 +9,8 @@ public class gitEx3 {
 		float marks=15.4f;
 		
 		int a=4;
+		
+		double b =62.5;
 	}
 
 }
