@@ -7,6 +7,8 @@ public class gitEx3 {
 		System.out.println("git exampple 3");
 		
 		float marks=15.4f;
+		
+		int a=4;
 	}
 
 }
