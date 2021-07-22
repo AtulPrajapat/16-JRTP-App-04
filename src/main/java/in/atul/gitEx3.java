@@ -10,7 +10,11 @@ public class gitEx3 {
 		
 		int a=4;
 		
+<<<<<<< Updated upstream
 		double b =62.5;
+=======
+		String s="msg";
+>>>>>>> Stashed changes
 	}
 
 }
