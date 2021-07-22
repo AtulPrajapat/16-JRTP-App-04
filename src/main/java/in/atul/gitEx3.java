@@ -10,10 +10,7 @@ public class gitEx3 {
 		
 		int a=4;
 		
-		public void marg(){
 
-			// mrging here
-		}
 	}
 
 }
